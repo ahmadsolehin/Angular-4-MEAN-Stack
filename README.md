@@ -47,4 +47,8 @@ Fortunately, here's a brand spanking new tutorial that will provide you with a w
 
 ![nn](https://user-images.githubusercontent.com/12325386/29237983-5cec3274-7f5c-11e7-82af-7f2d110038ff.JPG)
 
+Now, let's say we want to show all of the users when the app loads. Well, open up /src/app/app.component.ts file and add the following:
+
+
+
 Good luck!

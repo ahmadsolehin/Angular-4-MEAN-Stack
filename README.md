@@ -16,4 +16,7 @@ One such popular stack for achieving this is the MEAN stack. It's an acronym for
 
 Fortunately, here's a brand spanking new tutorial that will provide you with a working MEAN4 (and soon, MEAN5) stack. So, let's get started!
 
+![nn](https://user-images.githubusercontent.com/12325386/29237780-228396b2-7f58-11e7-9ff1-a4618dc1c49d.JPG)
+
+
 Good luck!
